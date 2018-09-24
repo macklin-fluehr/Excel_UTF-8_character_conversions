@@ -7,8 +7,8 @@ import unidecode
 
 weird_chars = w.dic
 
-in_file = 'MASTER.csv'
-out_file = 'Clean_MASTER.csv'
+in_file = 'sample.csv'
+out_file = 'clean_sample.csv'
 
 
 # Read in the file
